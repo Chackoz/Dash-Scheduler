@@ -1,0 +1,439 @@
+2024-12-22 19:03:32,116 | [32mINFO[0m | MainThread      | Initializing DASH Scheduler...
+2024-12-22 19:03:32,163 | [36mDEBUG[0m | MainThread      | Created new Firebase app
+2024-12-22 19:03:32,164 | [32mINFO[0m | MainThread      | Successfully connected to Firebase
+2024-12-22 19:03:32,166 | [32mINFO[0m | MainThread      | Starting DASH scheduler...
+2024-12-22 19:03:32,167 | [32mINFO[0m | MainThread      | Starting presence monitoring...
+2024-12-22 19:03:32,923 | [32mINFO[0m | MainThread      | New client connected: -OAfkO5HUvxAx3Ge5AVm
+2024-12-22 19:03:32,924 | [32mINFO[0m | MainThread      | Starting task processor...
+2024-12-22 19:03:33,255 | [36mDEBUG[0m | MainThread      | Found 1 pending tasks
+2024-12-22 19:03:33,874 | [32mINFO[0m | MainThread      | Task Assignment: ID=-OEiZN88bXt59GhWW2no Client=-OAfkO5HUvxAx3Ge5AVm Type=unknown Priority=normal
+2024-12-22 19:03:39,202 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:03:44,542 | [36mDEBUG[0m | MainThread      | Found 1 pending tasks
+2024-12-22 19:03:45,115 | [32mINFO[0m | MainThread      | Task Assignment: ID=-OEiZhSfrddG5QHl0TIR Client=-OAfkO5HUvxAx3Ge5AVm Type=unknown Priority=normal
+2024-12-22 19:03:50,444 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:03:55,772 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:04:01,098 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:04:06,436 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:04:11,767 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:04:17,101 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:04:22,446 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:04:27,796 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:04:33,128 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:04:38,460 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:04:43,802 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:04:49,143 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:04:54,489 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:04:59,831 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:05:05,174 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:05:10,516 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:05:15,848 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:05:21,176 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:05:26,509 | [36mDEBUG[0m | MainThread      | Found 1 pending tasks
+2024-12-22 19:05:27,086 | [32mINFO[0m | MainThread      | Task Assignment: ID=-OEi_5e6OTKRgvKuQr6G Client=-OAfkO5HUvxAx3Ge5AVm Type=unknown Priority=normal
+2024-12-22 19:05:32,435 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:05:37,767 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:05:43,097 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:05:48,429 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:05:53,751 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:05:59,080 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:06:04,703 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:06:10,038 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:06:15,376 | [36mDEBUG[0m | MainThread      | Found 1 pending tasks
+2024-12-22 19:06:15,954 | [32mINFO[0m | MainThread      | Task Assignment: ID=-OEi_HXxUHL04Aul-Ww9 Client=-OAfkO5HUvxAx3Ge5AVm Type=unknown Priority=normal
+2024-12-22 19:06:21,297 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:06:26,640 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:06:31,977 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:06:37,323 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:06:42,655 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:06:47,997 | [36mDEBUG[0m | MainThread      | Found 1 pending tasks
+2024-12-22 19:06:48,587 | [32mINFO[0m | MainThread      | Task Assignment: ID=-OEi_PSFg1Ca0Vg_cHTo Client=-OAfkO5HUvxAx3Ge5AVm Type=unknown Priority=normal
+2024-12-22 19:06:53,932 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:06:59,259 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:07:04,593 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:07:09,932 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:07:15,261 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:07:20,596 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:07:25,946 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:07:31,298 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:07:35,271 | [33mWARNING[0m | MainThread      | Client disconnected: -OAfkO5HUvxAx3Ge5AVm
+2024-12-22 19:07:36,651 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:07:41,989 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:07:47,341 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:07:52,687 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:07:58,034 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:08:03,375 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:08:08,721 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:08:14,055 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:08:19,399 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:08:24,739 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:08:30,089 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:08:35,427 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:08:35,850 | [32mINFO[0m | MainThread      | New client connected: -OAfkO5HUvxAx3Ge5AVm
+2024-12-22 19:08:40,769 | [36mDEBUG[0m | MainThread      | Found 1 pending tasks
+2024-12-22 19:08:41,347 | [32mINFO[0m | MainThread      | Task Assignment: ID=-OEi_qThmcGaNqhxnQRn Client=-OAfkO5HUvxAx3Ge5AVm Type=unknown Priority=normal
+2024-12-22 19:08:46,686 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:08:52,033 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:08:57,373 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:09:02,714 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:09:08,047 | [36mDEBUG[0m | MainThread      | Found 1 pending tasks
+2024-12-22 19:09:08,618 | [32mINFO[0m | MainThread      | Task Assignment: ID=-OEi_wR_G6Ss5Mv-uuab Client=-OAfkO5HUvxAx3Ge5AVm Type=unknown Priority=normal
+2024-12-22 19:09:13,972 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:09:19,307 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:09:24,657 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:09:29,998 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:09:35,329 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:09:40,679 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:09:46,021 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:09:51,367 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:09:55,561 | [32mINFO[0m | MainThread      | Received shutdown signal...
+2024-12-22 19:09:55,561 | [32mINFO[0m | MainThread      | Cleaning up resources...
+2024-12-22 19:09:55,561 | [32mINFO[0m | MainThread      | Scheduler shutdown complete
+2024-12-22 19:10:22,401 | [32mINFO[0m | MainThread      | Initializing DASH Scheduler...
+2024-12-22 19:10:22,490 | [36mDEBUG[0m | MainThread      | Created new Firebase app
+2024-12-22 19:10:22,491 | [32mINFO[0m | MainThread      | Successfully connected to Firebase
+2024-12-22 19:10:22,494 | [32mINFO[0m | MainThread      | Starting DASH scheduler...
+2024-12-22 19:10:22,494 | [32mINFO[0m | MainThread      | Starting presence monitoring...
+2024-12-22 19:10:23,338 | [32mINFO[0m | MainThread      | New client connected: -OAfkO5HUvxAx3Ge5AVm
+2024-12-22 19:10:23,338 | [32mINFO[0m | MainThread      | Starting task processor...
+2024-12-22 19:10:23,623 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:10:28,914 | [36mDEBUG[0m | MainThread      | Found 1 pending tasks
+2024-12-22 19:10:29,501 | [32mINFO[0m | MainThread      | Task Assignment: ID=-OEiaF4uGnkRX3MQGeXX Client=-OAfkO5HUvxAx3Ge5AVm Type=unknown Priority=normal
+2024-12-22 19:10:34,796 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:10:40,098 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:10:45,394 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:10:50,694 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:10:53,632 | [33mWARNING[0m | MainThread      | Client disconnected: -OAfkO5HUvxAx3Ge5AVm
+2024-12-22 19:10:55,987 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:11:01,276 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:11:06,582 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:11:11,875 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:11:17,167 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:11:22,460 | [36mDEBUG[0m | MainThread      | Found 1 pending tasks
+2024-12-22 19:11:23,042 | [32mINFO[0m | MainThread      | Task Assignment: ID=-OEiaSapbLnryFU_xibF Client=-OAfkO5HUvxAx3Ge5AVm Type=unknown Priority=normal
+2024-12-22 19:11:23,929 | [32mINFO[0m | MainThread      | New client connected: -OAfkO5HUvxAx3Ge5AVm
+2024-12-22 19:11:28,329 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:11:33,629 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:11:38,918 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:11:44,214 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:11:46,097 | [32mINFO[0m | MainThread      | Received shutdown signal...
+2024-12-22 19:11:46,097 | [32mINFO[0m | MainThread      | Cleaning up resources...
+2024-12-22 19:11:46,097 | [32mINFO[0m | MainThread      | Scheduler shutdown complete
+2024-12-22 19:14:41,088 | [32mINFO[0m | MainThread      | Initializing DASH Scheduler...
+2024-12-22 19:14:41,135 | [36mDEBUG[0m | MainThread      | Created new Firebase app
+2024-12-22 19:14:41,136 | [32mINFO[0m | MainThread      | Successfully connected to Firebase
+2024-12-22 19:14:41,138 | [32mINFO[0m | MainThread      | Starting DASH scheduler...
+2024-12-22 19:14:41,139 | [32mINFO[0m | MainThread      | Starting presence monitoring...
+2024-12-22 19:14:41,952 | [32mINFO[0m | MainThread      | New client connected: -OAfkO5HUvxAx3Ge5AVm
+2024-12-22 19:14:41,952 | [32mINFO[0m | MainThread      | Starting task processor...
+2024-12-22 19:14:42,253 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:14:47,558 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:14:52,856 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:14:58,163 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:15:03,470 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:15:08,782 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:15:14,091 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:15:19,394 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:15:24,702 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:15:30,001 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:15:35,316 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:15:40,620 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:15:45,915 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:15:51,217 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:15:56,541 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:16:01,854 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:16:07,152 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:16:12,459 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:16:12,838 | [33mWARNING[0m | MainThread      | Client disconnected: -OAfkO5HUvxAx3Ge5AVm
+2024-12-22 19:16:17,768 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:16:23,070 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:16:28,366 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:16:33,667 | [36mDEBUG[0m | MainThread      | Found 1 pending tasks
+2024-12-22 19:16:34,247 | [32mINFO[0m | MainThread      | Task Assignment: ID=-OEibcsvwLVo7sxnkEdq Client=-OAfkO5HUvxAx3Ge5AVm Type=unknown Priority=normal
+2024-12-22 19:16:39,553 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:16:43,126 | [32mINFO[0m | MainThread      | New client connected: -OAfkO5HUvxAx3Ge5AVm
+2024-12-22 19:16:44,866 | [36mDEBUG[0m | MainThread      | Found 1 pending tasks
+2024-12-22 19:16:45,447 | [32mINFO[0m | MainThread      | Task Assignment: ID=-OEibgG5AHlXmBH7eryr Client=-OAfkO5HUvxAx3Ge5AVm Type=unknown Priority=normal
+2024-12-22 19:16:50,756 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:16:56,059 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:17:01,371 | [36mDEBUG[0m | MainThread      | Found 1 pending tasks
+2024-12-22 19:17:01,955 | [32mINFO[0m | MainThread      | Task Assignment: ID=-OEibkVDwzNtPLyPjzYj Client=-OAfkO5HUvxAx3Ge5AVm Type=unknown Priority=normal
+2024-12-22 19:17:07,263 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:17:12,565 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:17:17,882 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:17:23,221 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:17:28,526 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:17:33,840 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:17:39,137 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:17:44,423 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:17:49,726 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:17:55,033 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:18:00,336 | [36mDEBUG[0m | MainThread      | Found 1 pending tasks
+2024-12-22 19:18:00,930 | [32mINFO[0m | MainThread      | Task Assignment: ID=-OEibygpAjiX2cd9PL2v Client=-OAfkO5HUvxAx3Ge5AVm Type=unknown Priority=normal
+2024-12-22 19:18:06,224 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:18:11,538 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:18:16,838 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:18:22,145 | [36mDEBUG[0m | MainThread      | Found 1 pending tasks
+2024-12-22 19:18:22,722 | [32mINFO[0m | MainThread      | Task Assignment: ID=-OEic2EfLIPPAOMzBBkv Client=-OAfkO5HUvxAx3Ge5AVm Type=unknown Priority=normal
+2024-12-22 19:18:28,025 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:18:33,338 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:18:38,645 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:18:43,947 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:18:49,254 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:18:54,553 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:18:59,860 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:19:05,160 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:19:10,458 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:19:15,763 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:19:21,074 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:19:26,380 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:19:31,695 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:19:37,004 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:19:42,320 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:19:47,618 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:19:52,923 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:19:58,234 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:20:03,558 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:20:08,863 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:20:14,179 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:20:19,488 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:20:24,802 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:20:30,117 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:20:35,420 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:20:40,725 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:20:45,531 | [33mWARNING[0m | MainThread      | Client disconnected: -OAfkO5HUvxAx3Ge5AVm
+2024-12-22 19:20:46,022 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:20:51,328 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:20:56,644 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:21:01,950 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:21:07,263 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:21:12,562 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:21:15,827 | [32mINFO[0m | MainThread      | New client connected: -OAfkO5HUvxAx3Ge5AVm
+2024-12-22 19:21:17,866 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:21:23,176 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:21:28,489 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:21:33,802 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:21:39,116 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:21:44,425 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:21:49,722 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:21:55,053 | [36mDEBUG[0m | MainThread      | Found 1 pending tasks
+2024-12-22 19:21:55,623 | [32mINFO[0m | MainThread      | Task Assignment: ID=-OEicrIFJe7zzUf_3wbP Client=-OAfkO5HUvxAx3Ge5AVm Type=unknown Priority=normal
+2024-12-22 19:22:00,946 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:22:06,268 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:22:11,601 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:22:16,424 | [33mWARNING[0m | MainThread      | Client disconnected: -OAfkO5HUvxAx3Ge5AVm
+2024-12-22 19:22:16,926 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:22:22,250 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:22:27,567 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:22:32,894 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:22:38,210 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:22:43,527 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:22:48,858 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:22:54,181 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:22:59,499 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:23:04,814 | [36mDEBUG[0m | MainThread      | Found 1 pending tasks
+2024-12-22 19:23:05,390 | [32mINFO[0m | MainThread      | Task Assignment: ID=-OEid8LqA_1acWkiAAQu Client=-OAfkO5HUvxAx3Ge5AVm Type=unknown Priority=normal
+2024-12-22 19:23:10,713 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:23:16,035 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:23:17,022 | [32mINFO[0m | MainThread      | New client connected: -OAfkO5HUvxAx3Ge5AVm
+2024-12-22 19:23:21,352 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:23:26,683 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:23:32,008 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:23:37,328 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:23:42,656 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:23:47,314 | [33mWARNING[0m | MainThread      | Client disconnected: -OAfkO5HUvxAx3Ge5AVm
+2024-12-22 19:23:47,986 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:23:53,312 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:23:58,631 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:24:03,961 | [36mDEBUG[0m | MainThread      | Found 1 pending tasks
+2024-12-22 19:24:04,557 | [32mINFO[0m | MainThread      | Task Assignment: ID=-OEidMA3CemGYQR2JVZ6 Client=-OAfkO5HUvxAx3Ge5AVm Type=unknown Priority=normal
+2024-12-22 19:24:09,880 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:24:15,205 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:24:17,602 | [32mINFO[0m | MainThread      | New client connected: -OAfkO5HUvxAx3Ge5AVm
+2024-12-22 19:24:20,539 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:24:25,871 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:24:31,186 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:24:36,519 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:24:41,840 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:24:47,164 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:24:52,490 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:24:57,826 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:25:03,157 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:25:08,475 | [36mDEBUG[0m | MainThread      | Found 1 pending tasks
+2024-12-22 19:25:09,057 | [32mINFO[0m | MainThread      | Task Assignment: ID=-OEidbG5034xRmTqAvRw Client=-OAfkO5HUvxAx3Ge5AVm Type=unknown Priority=normal
+2024-12-22 19:25:14,374 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:25:19,711 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:25:25,044 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:25:30,358 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:25:35,685 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:25:41,007 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:25:46,333 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:25:51,648 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:25:56,969 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:26:02,303 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:26:07,622 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:26:12,944 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:26:18,270 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:26:23,595 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:26:28,918 | [36mDEBUG[0m | MainThread      | Found 1 pending tasks
+2024-12-22 19:26:29,492 | [32mINFO[0m | MainThread      | Task Assignment: ID=-OEiduNuqqmXNOyT3_lm Client=-OAfkO5HUvxAx3Ge5AVm Type=unknown Priority=normal
+2024-12-22 19:26:34,831 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:26:40,158 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:26:45,477 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:26:50,796 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:26:56,125 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:27:01,452 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:27:06,767 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:27:12,097 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:27:17,426 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:27:22,758 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:27:28,073 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:27:33,406 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:27:38,742 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:27:44,074 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:27:49,400 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:27:54,716 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:28:00,035 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:28:05,356 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:28:10,678 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:28:16,005 | [36mDEBUG[0m | MainThread      | Found 1 pending tasks
+2024-12-22 19:28:16,582 | [32mINFO[0m | MainThread      | Task Assignment: ID=-OEieJagI9J0KPOd7Pv8 Client=-OAfkO5HUvxAx3Ge5AVm Type=unknown Priority=normal
+2024-12-22 19:28:21,920 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:28:27,237 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:28:32,574 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:28:37,909 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:28:43,234 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:28:48,561 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:28:53,897 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:28:59,220 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:29:04,547 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:29:09,872 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:29:15,208 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:29:20,536 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:29:25,866 | [36mDEBUG[0m | MainThread      | Found 1 pending tasks
+2024-12-22 19:29:26,440 | [32mINFO[0m | MainThread      | Task Assignment: ID=-OEie_bZuRplqS-cVMdu Client=-OAfkO5HUvxAx3Ge5AVm Type=unknown Priority=normal
+2024-12-22 19:29:31,773 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:29:37,101 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:29:42,426 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:29:47,740 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:29:53,069 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:29:58,382 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:30:03,701 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:30:09,028 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:30:14,359 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:30:19,693 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:30:25,016 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:30:30,344 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:30:35,677 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:30:41,007 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:30:46,339 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:30:51,673 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:30:57,028 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:31:02,359 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:31:07,686 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:31:13,018 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:31:18,365 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:31:23,694 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:31:29,025 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:31:34,354 | [36mDEBUG[0m | MainThread      | Found 1 pending tasks
+2024-12-22 19:31:34,934 | [32mINFO[0m | MainThread      | Task Assignment: ID=-OEif3kFF_ko-_xz9Jiy Client=-OAfkO5HUvxAx3Ge5AVm Type=unknown Priority=normal
+2024-12-22 19:31:40,269 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:31:45,616 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:31:50,958 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:31:56,306 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:32:01,655 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:32:07,001 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:32:12,339 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:32:17,690 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:32:23,200 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:32:28,540 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:32:33,870 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:32:39,214 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:32:44,563 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:32:49,903 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:32:55,241 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:33:00,584 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:33:05,932 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:33:11,279 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:33:16,619 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:33:21,972 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:33:27,325 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:33:32,668 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:33:38,019 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:33:43,370 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:33:48,716 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:33:54,172 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:33:59,525 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:34:04,875 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:34:10,214 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:34:15,558 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:34:20,904 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:34:26,247 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:34:31,591 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:34:36,935 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:34:42,286 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:34:47,630 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:34:52,975 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:34:58,316 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:35:03,669 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:35:09,017 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:35:14,359 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:35:19,699 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:35:25,038 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:35:30,381 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:35:35,725 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:35:41,075 | [36mDEBUG[0m | MainThread      | Found 1 pending tasks
+2024-12-22 19:35:41,664 | [32mINFO[0m | MainThread      | Task Assignment: ID=-OEig0Yeubqw8_caUPet Client=-OAfkO5HUvxAx3Ge5AVm Type=unknown Priority=normal
+2024-12-22 19:35:47,012 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:35:52,360 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:35:57,712 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:36:03,064 | [36mDEBUG[0m | MainThread      | Found 1 pending tasks
+2024-12-22 19:36:03,644 | [32mINFO[0m | MainThread      | Task Assignment: ID=-OEig5FuC1ZEUl_s_nHi Client=-OAfkO5HUvxAx3Ge5AVm Type=unknown Priority=normal
+2024-12-22 19:36:08,984 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:36:14,322 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:36:19,669 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:36:25,013 | [36mDEBUG[0m | MainThread      | Found 1 pending tasks
+2024-12-22 19:36:25,600 | [32mINFO[0m | MainThread      | Task Assignment: ID=-OEigAbufQztYbIm8AWi Client=-OAfkO5HUvxAx3Ge5AVm Type=unknown Priority=normal
+2024-12-22 19:36:30,945 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:36:36,299 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:36:41,650 | [36mDEBUG[0m | MainThread      | Found 1 pending tasks
+2024-12-22 19:36:42,229 | [32mINFO[0m | MainThread      | Task Assignment: ID=-OEigFDJeWOz-j6IL2O1 Client=-OAfkO5HUvxAx3Ge5AVm Type=unknown Priority=normal
+2024-12-22 19:36:47,577 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:36:52,923 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:36:58,267 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:37:03,606 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:37:08,972 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:37:14,317 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:37:19,668 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:37:25,011 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:37:30,347 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:37:35,712 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:37:41,051 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:37:46,396 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:37:51,732 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:37:57,140 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:38:02,489 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:38:07,973 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:38:13,322 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:38:18,673 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:38:24,023 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:38:29,375 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:38:34,726 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:38:40,076 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:38:45,424 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:38:50,776 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:38:56,116 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:38:57,414 | [33mWARNING[0m | MainThread      | Client disconnected: -OAfkO5HUvxAx3Ge5AVm
+2024-12-22 19:39:01,473 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:39:06,808 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:39:12,156 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:39:17,500 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:39:22,848 | [36mDEBUG[0m | MainThread      | Found 1 pending tasks
+2024-12-22 19:39:23,428 | [32mINFO[0m | MainThread      | Task Assignment: ID=-OEigs5v-0npZrlbw57e Client=-OAfkO5HUvxAx3Ge5AVm Type=unknown Priority=normal
+2024-12-22 19:39:27,706 | [32mINFO[0m | MainThread      | New client connected: -OAfkO5HUvxAx3Ge5AVm
+2024-12-22 19:39:28,781 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:39:34,158 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:39:39,550 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:39:44,926 | [36mDEBUG[0m | MainThread      | Found 1 pending tasks
+2024-12-22 19:39:45,502 | [32mINFO[0m | MainThread      | Task Assignment: ID=-OEigxWj-ua7MQU2ZMkk Client=-OAfkO5HUvxAx3Ge5AVm Type=unknown Priority=normal
+2024-12-22 19:39:50,881 | [36mDEBUG[0m | MainThread      | No pending tasks
+2024-12-22 19:39:56,258 | [36mDEBUG[0m | MainThread      | No pending tasks
