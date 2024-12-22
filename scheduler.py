@@ -66,7 +66,7 @@ class DashScheduler:
         ))
         
         # File handler for persistent logs
-        file_handler = logging.FileHandler('dash_scheduler.log')
+        file_handler = logging.FileHandler('dashscheduler.log')
         file_handler.setFormatter(logging.Formatter(
             '%(asctime)s | %(levelname)-8s | %(threadName)-15s | %(message)s'
         ))
